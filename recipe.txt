@@ -1,5 +1,6 @@
 flour 50g
 water 250ml
-salt 5mg
-sugar 15mg
-oil 10ml
+salt 3mg
+sugar 20mg
+oil 15ml
+butter 30mg
